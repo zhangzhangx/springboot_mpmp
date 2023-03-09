@@ -28,6 +28,7 @@ public class BookDaoTestCase {
         book.setType("测试数据1");
         book.setDescription("测试数据1");
         bookdao.insert(book);
+        System.out.println("hello");
 
     }
     @Test
