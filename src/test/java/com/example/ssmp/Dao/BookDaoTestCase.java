@@ -30,7 +30,7 @@ public class BookDaoTestCase {
         bookdao.insert(book);
         System.out.println("hello");
         System.out.println("hello hot-fix");
-        System.out.println("hello master");
+        System.out.println("hello master1");
 
     }
     @Test
