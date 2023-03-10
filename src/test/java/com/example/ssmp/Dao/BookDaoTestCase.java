@@ -32,6 +32,7 @@ public class BookDaoTestCase {
         System.out.println("hello hot-fix");
         System.out.println("hello master1");
         System.out.println("hello hot-fix2");
+        System.out.println("这是在尝试pull");
 
     }
     @Test
