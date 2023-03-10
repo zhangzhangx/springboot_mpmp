@@ -67,6 +67,7 @@ public class BookDaoTestCase {
         System.out.println(iPage.getTotal());
 //        当前页有几条数据
         System.out.println(iPage.getSize());
+        System.out.println("push");
 
     }
 //    按条件查询
